@@ -152,6 +152,9 @@ if (isset($filePresent)):
 
 <h3><?php echo __d('cake_dev', 'Editing this Page'); ?></h3>
 <p>
+
+<H1>これでええんか？</H1>
+
 <?php
 echo __d('cake_dev', 'To change the content of this page, edit: %s.<br />
 To change its layout, edit: %s.<br />
