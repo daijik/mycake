@@ -154,6 +154,7 @@ if (isset($filePresent)):
 <p>
 
 <H1>これでええんか？</H1>
+<H1>エエて</H1>
 
 <?php
 echo __d('cake_dev', 'To change the content of this page, edit: %s.<br />
