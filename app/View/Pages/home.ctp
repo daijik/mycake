@@ -157,9 +157,9 @@ if (isset($filePresent)):
 <H1>良いですよ</H1>
 
 <?php
-echo '<b>'
+echo '<b>' ; 
 echo gethostname();
-echo '</b>'
+echo '</b>'; 
 ?>
 
 <p>
