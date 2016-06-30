@@ -157,6 +157,11 @@ if (isset($filePresent)):
 <H1>良いですよ</H1>
 
 <?php
+echo gethostname();
+?>
+
+
+<?php
 echo __d('cake_dev', 'To change the content of this page, edit: %s.<br />
 To change its layout, edit: %s.<br />
 You can also add some CSS styles for your pages at: %s.',
